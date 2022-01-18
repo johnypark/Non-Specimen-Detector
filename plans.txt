@@ -1,0 +1,5 @@
+plans:
+1. Gather data table: | 1. Image number| 2. quality |
+2. Copy and paste test-metadata.json, and get index to use as the key for merger. 
+3. Merge test-metadata to get the file location
+2. Prepare image dataset - copy images from file locations. 
